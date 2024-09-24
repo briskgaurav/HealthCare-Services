@@ -1,7 +1,7 @@
 # 🌟 Healthcare Services Manager
 
-This is a simple react web application that allows users to manage a list of healthcare services. Users can add, update, and delete services, with all actions handled reactively. [Deployed link](https://healthcaremanage.netlify.app/)
-**Its an Internship task**
+This is a simple react web application that allows users to manage a list of healthcare services. Users can add, update, and delete services, with all actions handled reactively. [Deployed link](https://healthcaremanage.netlify.app/) <br/>
+**Note:** Its an Internship task
 
 ---
 
