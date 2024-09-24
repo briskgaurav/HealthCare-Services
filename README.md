@@ -1,8 +1,24 @@
-# React + Vite
+# 🌟 Healthcare Services Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple react web application that allows users to manage a list of healthcare services. Users can add, update, and delete services, with all actions handled reactively.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- **Service List**: Displays a list of healthcare services including name, description, and price.
+- **Add New Service**: A form for adding new healthcare services.
+- **Update Service**: Option to update existing service details.
+- **Delete Service**: Remove services from the list.
+
+---
+
+## 📦 Installation
+
+To get started, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/briskgaurav/healthCare-Services.git
+cd healthcare-services
+npm install
+npm run dev
